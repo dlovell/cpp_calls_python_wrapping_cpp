@@ -20,7 +20,7 @@ Output should look like
 
 # References
 
-This code is an excerpt from <boost>/libs/python/test/polymorphism.{cpp,py}
+This code is an excerpt from \<boost\>/libs/python/test/polymorphism.{cpp,py}
 
 For more info on virtual functions, see Boost's [Exposing Classes](http://www.boost.org/doc/libs/1_48_0/libs/python/doc/tutorial/doc/html/python/exposing.html#python.virtual_functions_with_default_implementations)
 
